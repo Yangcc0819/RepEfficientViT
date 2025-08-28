@@ -1,2 +1,2 @@
-# -RepEfficientViT
+# RepEfficientViT
 weed recognition
